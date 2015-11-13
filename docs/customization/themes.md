@@ -19,7 +19,7 @@ There are several out-of-the-box color themes for VS Code for you to try out.
 ## Adding a Theme
 You can also add new TextMate theme files (.tmTheme) to your VS Code installation.
 
-[ColorSublime](http://colorsublime.com) has hundreds of existing TextMate themes to choose from.  Pick a theme you like and copy the Download link to use in the Yeoman generator e.g. http://colorsublime.com/theme/download/40781.  The 'code' generator will prompt you for the URL or file location of the .tmTheme file, the theme name as well as other information for the theme.
+[ColorSublime](http://colorsublime.com) has hundreds of existing TextMate themes to choose from.  Pick a theme you like and copy the Download link to use in the Yeoman generator e.g. http://colorsublime.com/theme/download/40781.  The ['code' generator](https://github.com/Microsoft/generator-code) will prompt you for the URL or file location of the .tmTheme file, the theme name as well as other information for the theme.
 
 ![yo code theme](images/themes/yocodetheme.png)
 
